@@ -2,7 +2,6 @@
 
 ![Project Image](image-1.png)
 
-> This is a ReadMe template to help save you time and effort.
 
 ---
 
